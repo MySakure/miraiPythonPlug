@@ -1,1 +1,3 @@
 # miraiPythonPlug
+
+mirai机器人偶尔一些情况下某些插件功能需要额外的python文件，在此进行整合，便于下次进行部署
